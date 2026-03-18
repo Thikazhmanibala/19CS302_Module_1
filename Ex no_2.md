@@ -13,8 +13,8 @@ To write a program to check whether the person has fever using simple if stateme
 ```
 /*
 Program to check whether the person has fever using simple if statement. 
-Developed by: Mariam Sherin
-RegisterNumber:  212222060143
+Developed by:Thikazhmanibala.K
+RegisterNumber:  212222060277
 */
 #include<stdio.h>
 int main()
